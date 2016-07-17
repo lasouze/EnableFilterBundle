@@ -1,2 +1,1 @@
-# EnableFilterBundle
-AautoEnableFilterBundle
+# Enable Filter
