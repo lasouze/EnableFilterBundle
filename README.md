@@ -1,7 +1,7 @@
 Enable Filter
 ===========
 
-[![Build Status](https://travis-ci.org/lasouze/enable-filter-bundle.png?branch=master)](https://travis-ci.org/lasouze/enable-filter-bundle)
+[![Build Status](https://travis-ci.org/lasouze/EnableFilterBundle.svg?branch=master)](https://travis-ci.org/lasouze/EnableFilterBundle)
 
 Installation
 ------------
